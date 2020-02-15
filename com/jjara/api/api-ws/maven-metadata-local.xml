@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jjara.api</groupId>
+  <artifactId>api-ws</artifactId>
+  <versioning>
+    <release>com.jjara.api</release>
+    <versions>
+      <version>com.jjara.api</version>
+    </versions>
+    <lastUpdated>20200215201044</lastUpdated>
+  </versioning>
+</metadata>
